@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Deadlock/">
+    <Project Path="CodeFactory.DeadLock/CodeFactory.DeadLock.csproj" />
+  </Folder>
+</Solution>
