@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Deadlock/">
+    <Project Path="CodeFactory.Database_Deadlock/CodeFactory.Database_Deadlock.csproj" Id="c0ba685e-1c86-4d74-acdd-2ea7b76d4d82" />
     <Project Path="CodeFactory.DeadLock/CodeFactory.DeadLock.csproj" />
   </Folder>
 </Solution>

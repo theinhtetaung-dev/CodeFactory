@@ -1,0 +1,6 @@
+@CodeFactory.Database_Deadlock_HostAddress = http://localhost:5126
+
+GET {{CodeFactory.Database_Deadlock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
