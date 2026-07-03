@@ -2,7 +2,4 @@
   <Folder Name="/Deadlock/">
     <Project Path="CodeFactory.DeadLock/CodeFactory.DeadLock.csproj" />
   </Folder>
-  <Folder Name="/DesignPattern/">
-    <Project Path="CodeFactory.Singleton/CodeFactory.Singleton.csproj" Id="353872a8-c601-4e1f-ae0d-430f9c65dbbe" />
-  </Folder>
 </Solution>
