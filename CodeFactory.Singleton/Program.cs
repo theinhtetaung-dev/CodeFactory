@@ -19,3 +19,11 @@ if( config1.DbConnectionString == config2.DbConnectionString)
 {
     Console.WriteLine("Both Config1 and Config2 have the same connection string as used same instance!.");
 }
+
+ConfigSettingV2 configV2_1 = ConfigSettingV2.GetInstance("Server=newServer;Database=newDataBase;User Id=newUsername;Password=newPassword;");
+ConfigSettingV2 configV2_2 = ConfigSettingV2.GetInstance();
+
+if(configV2_1.dbConnectionString == configV2_2.dbConnectionString)
+{
+    Console.WriteLine("Both ConfigV2_1 and ConfigV2_2 have the same connection string as used same instance!.");
+}
